@@ -102,30 +102,6 @@ class JimenaMontano:
 
 ---
 
-## Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jimena7777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimena7777&layout=compact&langs_count=8&theme=algolia&border_radius=10" />
-</div>
-
-<br>
-
-
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimena7777&theme=react-dark&hide_border=true&area=true&radius=10" alt="Contribution Graph" />
-</div>
-
-<br>
-
-
-
-<br>
-
----
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
 <p align="center">
@@ -136,6 +112,9 @@ class JimenaMontano:
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimena7777&layout=compact&langs_count=8&theme=algolia" />
   </a>
 </p>
+
+
+---
 
 
 ## 🌟 Proyectos Destacados
