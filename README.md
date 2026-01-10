@@ -105,7 +105,7 @@ class JimenaMontano:
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
 <p align="center">
-  <a href="https://github.com/ClarosRJ">
+  <a href="https://github.com/jimena7777">
     <img height="180em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=jimena7777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img height="180em"
