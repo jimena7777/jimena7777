@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ZqzXwn6WFSkryn2A6iMConid9-vUbn20" alt="Banner Jimena Montaño" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=1F6yJri5WCEJGOGAex4-623Nn4Lv7htVE" alt="Banner Jimena Montaño" width="100%" />
 </div>
 
 ---
